@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="533d13b0-3c4e-4b2a-b416-3f952fb8152c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +67,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
@@ -83,5 +95,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="350" key="SettingsEditor" timestamp="1640291537767">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="781" y="350" key="SettingsEditor/0.0.2560.1410/-1680.174.1680.1020@0.0.2560.1410" timestamp="1640291537767" />
+    <state x="972" y="478" key="git4idea.merge.GitPullDialog" timestamp="1640291093580">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="972" y="478" key="git4idea.merge.GitPullDialog/0.0.2560.1410/-1680.174.1680.1020@0.0.2560.1410" timestamp="1640291093580" />
   </component>
 </project>
