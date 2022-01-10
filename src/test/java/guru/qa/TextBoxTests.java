@@ -23,13 +23,13 @@ public class TextBoxTests {
         $("#permanentAddress").setValue("Stalina street");
         $("#submit").click();
 
-//        $("#output #name").shouldHave(text("Alex"));
-//        $("#output").$("#email").shouldHave(text("Alex@mail.ru"));
-//        $("#output #currentAddress").shouldHave(text("Lenina street"));
-//        $("#output #permanentAddress").shouldHave(text("Stalina street"));
+        $("#output #name").shouldHave(text("Alex"));
+        $("#output").$("#email").shouldHave(text("Alex@mail.ru"));
+        $("#output #currentAddress").shouldHave(text("Lenina street"));
+        $("#output #permanentAddress").shouldHave(text("Stalina street"));
 
-        $("#output").shouldHave(text("Alex"),
-                text("Alex@mail.ru"), text("Lenina street"), text("Stalina street"));
+//        $("#output").shouldHave(text("Alex"),
+//                text("Alex@mail.ru"), text("Lenina street"), text("Stalina street"));
 
 
     }
