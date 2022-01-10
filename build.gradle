@@ -26,3 +26,4 @@ tasks.withType(JavaCompile) {
 test {
     useJUnitPlatform()
 }
+
