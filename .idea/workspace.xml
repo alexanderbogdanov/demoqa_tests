@@ -13,16 +13,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="533d13b0-3c4e-4b2a-b416-3f952fb8152c" name="Default Changelist" comment="finished arrange-act without assertions">
-      <change afterPath="$PROJECT_DIR$/src/test/java/guru/qa/tests/FormTestsWithComments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+    <list default="true" id="533d13b0-3c4e-4b2a-b416-3f952fb8152c" name="Default Changelist" comment="new test class for page object prepared">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/tests/FormTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/tests/FormTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +81,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -214,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.NutsonRecaptchaTests.recaptchaTest" />
+        <item itemvalue="Gradle.NutsonRecaptchaTests.recaptchaTestWithPhoneFormReopened" />
+        <item itemvalue="Gradle.NutsonRecaptchaTests.recaptchaTestWithPhoneFormReopenedDev" />
         <item itemvalue="Gradle.FormTests.successfulFormFillTest" />
         <item itemvalue="Gradle.FormTests" />
-        <item itemvalue="Gradle.NutsonRecaptchaTests.recaptchaTest" />
-        <item itemvalue="Gradle.NutsonRecaptchaTests.recaptchaTestWithPhoneFormReopenedDev" />
-        <item itemvalue="Gradle.NutsonRecaptchaTests.recaptchaTestWithPhoneFormReopened" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642367621906</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new test class for page object prepared">
+      <created>1642368638772</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642368638772</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,6 +273,7 @@
     <MESSAGE value="added text box tests" />
     <MESSAGE value="in different lines" />
     <MESSAGE value="finished arrange-act without assertions" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished arrange-act without assertions" />
+    <MESSAGE value="new test class for page object prepared" />
+    <option name="LAST_COMMIT_MESSAGE" value="new test class for page object prepared" />
   </component>
 </project>

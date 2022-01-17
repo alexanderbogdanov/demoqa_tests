@@ -42,6 +42,7 @@ public class FormTests extends TestBase {
         $("#stateCity-wrapper").$(byText("Agra")).click();
 
         $("#submit").click();
+        $("#submit").click();
 //Assertions
         $("#example-modal-sizes-title-lg").shouldHave(text("Thanks for submitting the form"));
         $(".table-responsive").shouldHave(text("Alex Bogdanov"), text("alex@mail.com"));

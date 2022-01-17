@@ -40,3 +40,5 @@ target/
 .vscode
 /gradlew
 /gradlew.bat
+/src/test/java/guru/qa/tests/NutsonRecaptchaTests.java
+/src/test/java/guru/qa/utils/PhoneGenerator.java
