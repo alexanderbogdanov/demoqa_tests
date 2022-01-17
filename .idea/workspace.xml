@@ -13,9 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="533d13b0-3c4e-4b2a-b416-3f952fb8152c" name="Default Changelist" comment="new test class for page object prepared">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/foto.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="533d13b0-3c4e-4b2a-b416-3f952fb8152c" name="Default Changelist" comment="added foto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/guru/qa/tests/FormTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guru/qa/tests/FormTests.java" afterDir="false" />
     </list>
@@ -70,6 +68,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2c37c619-66f2-4746-b14a-601c86f49857" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -89,7 +90,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -263,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642368638772</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added foto">
+      <created>1642456991346</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642456991346</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +290,7 @@
     <MESSAGE value="in different lines" />
     <MESSAGE value="finished arrange-act without assertions" />
     <MESSAGE value="new test class for page object prepared" />
-    <option name="LAST_COMMIT_MESSAGE" value="new test class for page object prepared" />
+    <MESSAGE value="added foto" />
+    <option name="LAST_COMMIT_MESSAGE" value="added foto" />
   </component>
 </project>
